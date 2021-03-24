@@ -5,8 +5,7 @@
 ## I'm an Engineering Student, Developer, and AI Enthusiast!!
 
 - 🔭 I just qualified to the finals of IMOR 2020 : [Innovative Morocco 2020][IMOR]!
-- 🌱 I’m currently learning Deep Learning / Machine Learning.
-- ⚡ Best Experience of 2020, Qualifying to the Semi-finals of [ALTEN Morocco Software Awards 5!][AMSA]!
+- 🌱 I’m currently working on electrical networking.
 - 👯 I’m looking to collaborate with professional entities.
 - 🥅 2021 Goals: Contribute more to Open Source projects.
 
@@ -24,6 +23,6 @@
 
 [website]: https://github.com/ELASRIYASSINE
 [facebook]: https://www.facebook.com/formationindustriellegratuite
-[youtube]: https://www.youtube.com/channel/UCWxWJZxB_oKPCt_odGQmqkg
+[youtube]: https://www.youtube.com/c/elasriyassine
 [linkedin]: https://www.linkedin.com/in/elasriyassine/
 
