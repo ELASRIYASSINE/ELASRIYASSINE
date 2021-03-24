@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=Lets_work_together&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.linkedin.com/in/elasriyassine/)
 
-## I'm an Engineering Student, Developer, and AI Enthusiast!!
+## I'm a Master in electrical engineering !!
 
 - 🔭 I just qualified to the finals of IMOR 2020 : [Innovative Morocco 2020][IMOR]!
 - 🌱 I’m currently working on electrical networking.
