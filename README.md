@@ -4,7 +4,6 @@
 
 ## I'm a Master in electrical engineering !!
 
-- 🔭 I just qualified to the finals of IMOR 2020 : [Innovative Morocco 2020][IMOR]!
 - 🌱 I’m currently working on fault locator in electrical energy transmission networks.
 - 👯 I’m looking to collaborate with professional entities.
 - 🥅 2021 Goals: Contribute more in researchs in the field of the transport of electric energy.
